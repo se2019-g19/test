@@ -1,1 +1,1 @@
-# about a wechat application
+# about G19 wechat application
