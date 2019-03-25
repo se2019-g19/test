@@ -1,1 +1,1 @@
-# test
+# about a wechat application
